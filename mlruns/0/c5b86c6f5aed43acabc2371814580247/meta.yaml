@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sumeetchougule/Data%20Projects/mlflow/mlruns/0/c5b86c6f5aed43acabc2371814580247/artifacts
+end_time: 1705579997908
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c5b86c6f5aed43acabc2371814580247
+run_name: tasteful-stoat-647
+run_uuid: c5b86c6f5aed43acabc2371814580247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705579996069
+status: 3
+tags: []
+user_id: sumeetchougule

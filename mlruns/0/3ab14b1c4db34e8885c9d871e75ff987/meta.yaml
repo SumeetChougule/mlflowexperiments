@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/sumeetchougule/Data%20Projects/mlflow/mlruns/0/3ab14b1c4db34e8885c9d871e75ff987/artifacts
+end_time: 1705579950233
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3ab14b1c4db34e8885c9d871e75ff987
+run_name: debonair-kit-96
+run_uuid: 3ab14b1c4db34e8885c9d871e75ff987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705579948501
+status: 3
+tags: []
+user_id: sumeetchougule
